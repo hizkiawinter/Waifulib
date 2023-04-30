@@ -11,7 +11,7 @@ Reinhart Dominggo Sahatmartua Lumbantoruan - ******077
 
 
 Referensi: 
-[1]. https://github.com/WinHw/python-REST-API/blob/master/Python%20Flask%20REST%20%232/api.py
+[1]. https://github.com/WinHw/python-REST-API/blob/master/Python%20Flask%20REST%20%232
 [2]. https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/ 
 [3]. https://stackoverflow.com/questions/33003178/nested-blueprints-in-flask 
 [4]. https://flask.palletsprojects.com/en/2.3.x/blueprints/ 
